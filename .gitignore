@@ -1,0 +1,70 @@
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Local environment settings
+.env
+.env.*
+!.env.example
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Operating system files
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Local environment settings
+.env
+.env.*
+!.env.example
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+~$*.xlsx
+
+# Jupyter temporary files
+.python_history
+
+# Power BI temporary files
+*.pbit.lock
+*.pbix.lock
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+~$*.xlsx
+
+# Jupyter temporary files
+.python_history
+
+# Power BI temporary files
+*.pbit.lock
+*.pbix.lock
